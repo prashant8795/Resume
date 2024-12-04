@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(105, 101, 102);
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+h2 {
+    color: white;
+}
+
+h1{
+    color: white;
+}
+h5{
+    color: white;
+}
+ul li{
+    color: white;
+}
+
+p{
+    color: white;
+}
